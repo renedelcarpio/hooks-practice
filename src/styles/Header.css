@@ -1,0 +1,9 @@
+.dark-mode {
+    background-color: #282c34;
+    transition: 0.5s;
+}
+
+.light-mode {
+    background-color: #f3f6f7;
+    transition: 0.5s;
+}
