@@ -4,8 +4,8 @@ import '../styles/Header.css'
 
 function Header() {
     return (
-        <div className='title'>
-            <h1>Práctica de React Hooks</h1>
+        <div>
+            <h1 className='title'>Práctica de React Hooks</h1>
         </div>
     )
 }

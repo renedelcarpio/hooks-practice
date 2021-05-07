@@ -11,13 +11,12 @@ function App() {
   }
   return (
     <div className="App">
-      <div className={darkMode ? 'dark-mode' : 'light-mode'}>
-      <Header/>
-      <button
-        className={darkMode ? 'button-dark' : 'button-light'}
-        onClick={ handleClick }>{darkMode ? 'Light Mode' : 'Dark Mode'}
-      </button>
-      <Characters/>
+      <div className={darkMode ? 'dark-mode' : 'light-mode'} >
+        <Header/>
+          <button className={darkMode ? 'button-dark' : 'button-light'} onClick={handleClick}>
+              {darkMode ? 'Light Mode' : 'Dark Mode'}
+          </button>
+        <Characters/>
       </div>
     </div>
   );
