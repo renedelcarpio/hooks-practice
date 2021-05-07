@@ -5,14 +5,14 @@
 # React Hooks Practice
 # Práctica de React Hooks
 
-In this project i used the useState and useEfect to consume an API and to set a Light Mode and a Dark Mode
-En este proyecto utilicé useState y useEfect para consumir una API y para configurar un Modo Claro y Modo Oscuro
+In this project i used the useState and useEfect to consume an API and to set a Light Mode and a Dark Mode.
+(En este proyecto utilicé useState y useEfect para consumir una API y para configurar un Modo Claro y Modo Oscuro)
 
 ## To watch de project
 ## Para ver el proyecto
 
 First you must clone the project. In the project directory you can run:
-Primero tienes que clonar el proyecto. En el directorio del proyecto puedes ingresar:
+(Primero tienes que clonar el proyecto. En el directorio del proyecto puedes ingresar:)
 
 ### `sudo apt install nodejs`
 
