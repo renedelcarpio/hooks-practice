@@ -1,43 +1,4 @@
-.App {
-  text-align: center;
-}
-
-.title {
-  padding: 0.1rem;
-  color: #1fbb8b;
-  font-size: 2.5rem;
-}
-
-.button-dark {
-  padding: 0.5rem 1rem;
-  border: 0.2rem solid #8bcf21;
-  background-color: #8bcf21;
-  color: #232137;
-  font-weight: bold;
-  font-size: 1rem;
-  border-radius: 0.5rem;
-  margin: 1.5rem;
-}
-
-.button-light {
-  padding: 0.5rem 1rem;
-  border: 0.2rem solid #8bcf21;
-  background-color: #232137;
-  color: #8bcf21;
-  font-weight: bold;
-  font-size: 1rem;
-  border-radius: 0.5rem;
-  margin: 1.5rem;
-}
-
-.dark-mode {
-  text-align: center;
-  background-color: #232137;
-  transition: 0.5s;
-}
-
-.light-mode {
-  text-align: center;
-  background-color: #f3f6f7;
-  transition: 0.5s;
+body {
+	width: 100%;
+	text-align: center;
 }
